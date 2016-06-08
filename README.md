@@ -1,4 +1,4 @@
-# cofffee-wiki
+# Cofffee Wiki
 
 ![coffee-meme](https://cdn.meme.am/instances/400x/55530655.jpg)
 
