@@ -9,5 +9,5 @@ title = "To Share"
 3. Pour water in until it reaches a half inch from the brim of the metal filter.
 4. Stir water and beans gently
 5. Wait
-4. Repeat steps: 3, 4, and 5 -- 2 more times
+4. Repeat steps: 3, 4, and 5 -- [2 more times]
 6. Enjoy
